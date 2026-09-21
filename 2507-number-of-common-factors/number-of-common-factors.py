@@ -4,8 +4,10 @@ class Solution:
         count = 0
         if b > a:
             a, b = b, a
+        elif a == b:
+            count += 1
 
-        for i in range(1, a + 1):
+        for i in range(1, a // 2 + 1):
             if a % i == 0:
                 la.add(i)
         
