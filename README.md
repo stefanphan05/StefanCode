@@ -9,14 +9,14 @@ Let's grind! 💪
 <!-- PROGRESS:START -->
 ### 📊 Progress
 
-**77 problems solved** · 🟢 Easy 19 / 241 · 🟡 Medium 58 / 702 · 🔴 Hard 0 / 183
+**78 problems solved** · 🟢 Easy 19 / 241 · 🟡 Medium 59 / 702 · 🔴 Hard 0 / 183
 
 | List | Progress | Solved | |
 | :-- | :-- | --: | --: |
 | **Blind 75** | `███████████░░░░░░░░░` | 42 / 75 | 56% |
-| **NeetCode 150** | `██████████░░░░░░░░░░` | 77 / 150 | 51% |
-| **NeetCode 250** | `██████░░░░░░░░░░░░░░` | 77 / 250 | 31% |
-| **NeetCode All** | `█░░░░░░░░░░░░░░░░░░░` | 77 / 1126 | 7% |
+| **NeetCode 150** | `██████████░░░░░░░░░░` | 78 / 150 | 52% |
+| **NeetCode 250** | `██████░░░░░░░░░░░░░░` | 78 / 250 | 31% |
+| **NeetCode All** | `█░░░░░░░░░░░░░░░░░░░` | 78 / 1126 | 7% |
 
 <details open>
 <summary><b>By topic</b></summary>
@@ -33,7 +33,7 @@ Let's grind! 💪
 | Tries | `██░░░░░░░░░░░░░░░░░░` | 2 / 16 |
 | Heap / Priority Queue | `███░░░░░░░░░░░░░░░░░` | 6 / 36 |
 | Backtracking | `████░░░░░░░░░░░░░░░░` | 9 / 45 |
-| Graphs | `██░░░░░░░░░░░░░░░░░░` | 6 / 76 |
+| Graphs | `██░░░░░░░░░░░░░░░░░░` | 7 / 76 |
 | Advanced Graphs | `░░░░░░░░░░░░░░░░░░░░` | 0 / 36 |
 | 1-D Dynamic Programming | `░░░░░░░░░░░░░░░░░░░░` | 0 / 61 |
 | 2-D Dynamic Programming | `░░░░░░░░░░░░░░░░░░░░` | 0 / 67 |
