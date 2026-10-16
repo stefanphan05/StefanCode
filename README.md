@@ -9,11 +9,40 @@ Let's grind! 💪
 <!-- PROGRESS:START -->
 ### 📊 Progress
 
-**75 problems solved** · 🟢 Easy 19 · 🟡 Medium 56 · 🔴 Hard 0
+**75 problems solved** · 🟢 Easy 19 / 241 · 🟡 Medium 56 / 702 · 🔴 Hard 0 / 183
 
-NeetCode 150 75/150 · Blind 75 41/75 · All NeetCode 75/450
+| List | Progress | Solved | |
+| :-- | :-- | --: | --: |
+| **Blind 75** | `███████████░░░░░░░░░` | 41 / 75 | 55% |
+| **NeetCode 150** | `██████████░░░░░░░░░░` | 75 / 150 | 50% |
+| **NeetCode 250** | `██████░░░░░░░░░░░░░░` | 75 / 250 | 30% |
+| **NeetCode All** | `█░░░░░░░░░░░░░░░░░░░` | 75 / 1126 | 7% |
 
-<img src="assets/progress.svg" alt="NeetCode progress by topic" width="720"/>
+<details open>
+<summary><b>By topic</b></summary>
+
+| Topic | Progress | Solved |
+| :-- | :-- | --: |
+| Arrays & Hashing | `█░░░░░░░░░░░░░░░░░░░` | 9 / 208 |
+| Two Pointers | `██░░░░░░░░░░░░░░░░░░` | 4 / 48 |
+| Sliding Window | `██░░░░░░░░░░░░░░░░░░` | 4 / 47 |
+| Stack | `██░░░░░░░░░░░░░░░░░░` | 5 / 42 |
+| Binary Search | `██░░░░░░░░░░░░░░░░░░` | 6 / 49 |
+| Linked List | `████░░░░░░░░░░░░░░░░` | 9 / 41 |
+| Trees | `██░░░░░░░░░░░░░░░░░░` | 13 / 112 |
+| Tries | `██░░░░░░░░░░░░░░░░░░` | 2 / 16 |
+| Heap / Priority Queue | `███░░░░░░░░░░░░░░░░░` | 6 / 36 |
+| Backtracking | `████░░░░░░░░░░░░░░░░` | 9 / 45 |
+| Graphs | `█░░░░░░░░░░░░░░░░░░░` | 4 / 76 |
+| Advanced Graphs | `░░░░░░░░░░░░░░░░░░░░` | 0 / 36 |
+| 1-D Dynamic Programming | `░░░░░░░░░░░░░░░░░░░░` | 0 / 61 |
+| 2-D Dynamic Programming | `░░░░░░░░░░░░░░░░░░░░` | 0 / 67 |
+| Greedy | `░░░░░░░░░░░░░░░░░░░░` | 0 / 79 |
+| Intervals | `███░░░░░░░░░░░░░░░░░` | 4 / 24 |
+| Math & Geometry | `░░░░░░░░░░░░░░░░░░░░` | 0 / 76 |
+| Bit Manipulation | `░░░░░░░░░░░░░░░░░░░░` | 0 / 33 |
+
+</details>
 
 <sub>Auto-updated on every push by `scripts/update_progress.py`.</sub>
 <!-- PROGRESS:END -->

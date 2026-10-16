@@ -1,3077 +1,6357 @@
 {
- "duplicate-integer": {
-  "title": "Contains Duplicate",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "is-anagram": {
-  "title": "Valid Anagram",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "concatenation-of-array": {
-  "title": "Concatenation of Array",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "replace-elements-with-greatest-element-on-right-side": {
-  "title": "Replace Elements With Greatest Element On Right Side",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "is-subsequence": {
-  "title": "Is Subsequence",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "length-of-last-word": {
-  "title": "Length of Last Word",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "two-integer-sum": {
-  "title": "Two Sum",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "longest-common-prefix": {
-  "title": "Longest Common Prefix",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "anagram-groups": {
-  "title": "Group Anagrams",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "pascals-triangle": {
-  "title": "Pascals Triangle",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "remove-element": {
-  "title": "Remove Element",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "unique-email-addresses": {
-  "title": "Unique Email Addresses",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "isomorphic-strings": {
-  "title": "Isomorphic Strings",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "can-place-flowers": {
-  "title": "Can Place Flowers",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "majority-element": {
-  "title": "Majority Element",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "next-greater-element-i": {
-  "title": "Next Greater Element I",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "find-pivot-index": {
-  "title": "Find Pivot Index",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "range-sum-query-immutable": {
-  "title": "Range Sum Query - Immutable",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "find-all-numbers-disappeared-in-an-array": {
-  "title": "Find All Numbers Disappeared in An Array",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "maximum-number-of-balloons": {
-  "title": "Maximum Number of Balloons",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "word-pattern": {
-  "title": "Word Pattern",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "design-hashset": {
-  "title": "Design HashSet",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "design-hashmap": {
-  "title": "Design HashMap",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "sort-an-array": {
-  "title": "Sort an Array",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "top-k-elements-in-list": {
-  "title": "Top K Frequent Elements",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "products-of-array-discluding-self": {
-  "title": "Product of Array Except Self",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "valid-sudoku": {
-  "title": "Valid Sudoku",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "string-encode-and-decode": {
-  "title": "Encode and Decode Strings",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "longest-consecutive-sequence": {
-  "title": "Longest Consecutive Sequence",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "sort-colors": {
-  "title": "Sort Colors",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "encode-and-decode-tinyurl": {
-  "title": "Encode and Decode TinyURL",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "brick-wall": {
-  "title": "Brick Wall",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "best-time-to-buy-and-sell-stock-ii": {
-  "title": "Best Time to Buy And Sell Stock II",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "subarray-sum-equals-k": {
-  "title": "Subarray Sum Equals K",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "unique-length-3-palindromic-subsequences": {
-  "title": "Unique Length 3 Palindromic Subsequences",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-number-of-swaps-to-make-the-string-balanced": {
-  "title": "Minimum Number of Swaps to Make The String Balanced",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "number-of-pairs-of-interchangeable-rectangles": {
-  "title": "Number of Pairs of Interchangeable Rectangles",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-product-of-the-length-of-two-palindromic-subsequences": {
-  "title": "Maximum Product of The Length of Two Palindromic Subsequences",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "grid-game": {
-  "title": "Grid Game",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-all-anagrams-in-a-string": {
-  "title": "Find All Anagrams in a String",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-the-index-of-the-first-occurrence-in-a-string": {
-  "title": "Find The Index of The First Occurrence in a String",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "wiggle-sort": {
-  "title": "Wiggle Sort",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "largest-number": {
-  "title": "Largest Number",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "continuous-subarray-sum": {
-  "title": "Continuous Subarray Sum",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "push-dominoes": {
-  "title": "Push Dominoes",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "repeated-dna-sequences": {
-  "title": "Repeated DNA Sequences",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "insert-delete-getrandom-o1": {
-  "title": "Insert Delete Get Random O(1)",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "check-if-a-string-contains-all-binary-codes-of-size-k": {
-  "title": "Check if a String Contains all Binary Codes of Size K",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "range-sum-query-2d-immutable": {
-  "title": "Range Sum Query 2D Immutable",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "non-decreasing-array": {
-  "title": "Non Decreasing Array",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "first-missing-positive": {
-  "title": "First Missing Positive",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Hard",
-  "lists": []
- },
- "sign-of-the-product-of-an-array": {
-  "title": "Sign of An Array",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "find-the-difference-of-two-arrays": {
-  "title": "Find the Difference of Two Arrays",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "design-parking-system": {
-  "title": "Design Parking System",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Easy",
-  "lists": []
- },
- "number-of-zero-filled-subarrays": {
-  "title": "Number of Zero-Filled Subarrays",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "optimal-partition-of-string": {
-  "title": "Optimal Partition of String",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "design-underground-system": {
-  "title": "Design Underground System",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-penalty-for-a-shop": {
-  "title": "Minimum Penalty for a Shop",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Medium",
-  "lists": []
- },
- "text-justification": {
-  "title": "Text Justification",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Hard",
-  "lists": []
- },
- "naming-a-company": {
-  "title": "Naming a Company",
-  "topic": "Arrays & Hashing",
-  "difficulty": "Hard",
-  "lists": []
- },
- "is-palindrome": {
-  "title": "Valid Palindrome",
-  "topic": "Two Pointers",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "valid-palindrome-ii": {
-  "title": "Valid Palindrome II",
-  "topic": "Two Pointers",
-  "difficulty": "Easy",
-  "lists": []
- },
- "minimum-difference-between-highest-and-lowest-of-k-scores": {
-  "title": "Minimum Difference Between Highest And Lowest of K Scores",
-  "topic": "Two Pointers",
-  "difficulty": "Easy",
-  "lists": []
- },
- "merge-strings-alternately": {
-  "title": "Merge Strings Alternately",
-  "topic": "Two Pointers",
-  "difficulty": "Easy",
-  "lists": []
- },
- "reverse-string": {
-  "title": "Reverse String",
-  "topic": "Two Pointers",
-  "difficulty": "Easy",
-  "lists": []
- },
- "merge-sorted-array": {
-  "title": "Merge Sorted Array",
-  "topic": "Two Pointers",
-  "difficulty": "Easy",
-  "lists": []
- },
- "move-zeroes": {
-  "title": "Move Zeroes",
-  "topic": "Two Pointers",
-  "difficulty": "Easy",
-  "lists": []
- },
- "remove-duplicates-from-sorted-array": {
-  "title": "Remove Duplicates From Sorted Array",
-  "topic": "Two Pointers",
-  "difficulty": "Easy",
-  "lists": []
- },
- "remove-duplicates-from-sorted-array-ii": {
-  "title": "Remove Duplicates From Sorted Array II",
-  "topic": "Two Pointers",
-  "difficulty": "Medium",
-  "lists": []
- },
- "two-integer-sum-ii": {
-  "title": "Two Sum II Input Array Is Sorted",
-  "topic": "Two Pointers",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "three-integer-sum": {
-  "title": "3Sum",
-  "topic": "Two Pointers",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "4sum": {
-  "title": "4Sum",
-  "topic": "Two Pointers",
-  "difficulty": "Medium",
-  "lists": []
- },
- "max-water-container": {
-  "title": "Container With Most Water",
-  "topic": "Two Pointers",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "number-of-subsequences-that-satisfy-the-given-sum-condition": {
-  "title": "Number of Subsequences That Satisfy The Given Sum Condition",
-  "topic": "Two Pointers",
-  "difficulty": "Medium",
-  "lists": []
- },
- "rotate-array": {
-  "title": "Rotate Array",
-  "topic": "Two Pointers",
-  "difficulty": "Medium",
-  "lists": []
- },
- "array-with-elements-not-equal-to-average-of-neighbors": {
-  "title": "Array With Elements Not Equal to Average of Neighbors",
-  "topic": "Two Pointers",
-  "difficulty": "Medium",
-  "lists": []
- },
- "boats-to-save-people": {
-  "title": "Boats to Save People",
-  "topic": "Two Pointers",
-  "difficulty": "Medium",
-  "lists": []
- },
- "trapping-rain-water": {
-  "title": "Trapping Rain Water",
-  "topic": "Two Pointers",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "buy-and-sell-crypto": {
-  "title": "Best Time to Buy And Sell Stock",
-  "topic": "Sliding Window",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "contains-duplicate-ii": {
-  "title": "Contains Duplicate II",
-  "topic": "Sliding Window",
-  "difficulty": "Easy",
-  "lists": []
- },
- "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": {
-  "title": "Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": []
- },
- "longest-substring-without-duplicates": {
-  "title": "Longest Substring Without Repeating Characters",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "longest-repeating-substring-with-replacement": {
-  "title": "Longest Repeating Character Replacement",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "permutation-string": {
-  "title": "Permutation In String",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "frequency-of-the-most-frequent-element": {
-  "title": "Frequency of The Most Frequent Element",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": []
- },
- "fruit-into-baskets": {
-  "title": "Fruits into Basket",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-number-of-vowels-in-a-substring-of-given-length": {
-  "title": "Maximum Number of Vowels in a Substring of Given Length",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-number-of-flips-to-make-the-binary-string-alternating": {
-  "title": "Minimum Number of Flips to Make The Binary String Alternating",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-size-subarray-sum": {
-  "title": "Minimum Size Subarray Sum",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-k-closest-elements": {
-  "title": "Find K Closest Elements",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-operations-to-reduce-x-to-zero": {
-  "title": "Minimum Operations to Reduce X to Zero",
-  "topic": "Sliding Window",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-window-with-characters": {
-  "title": "Minimum Window Substring",
-  "topic": "Sliding Window",
-  "difficulty": "Hard",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "sliding-window-maximum": {
-  "title": "Sliding Window Maximum",
-  "topic": "Sliding Window",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "validate-parentheses": {
-  "title": "Valid Parentheses",
-  "topic": "Stack",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "baseball-game": {
-  "title": "Baseball Game",
-  "topic": "Stack",
-  "difficulty": "Easy",
-  "lists": []
- },
- "implement-stack-using-queues": {
-  "title": "Implement Stack Using Queues",
-  "topic": "Stack",
-  "difficulty": "Easy",
-  "lists": []
- },
- "minimum-stack": {
-  "title": "Min Stack",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "evaluate-reverse-polish-notation": {
-  "title": "Evaluate Reverse Polish Notation",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "removing-stars-from-a-string": {
-  "title": "Removing Stars From a String",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": []
- },
- "validate-stack-sequences": {
-  "title": "Validate Stack Sequences",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": []
- },
- "generate-parentheses": {
-  "title": "Generate Parentheses",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "asteroid-collision": {
-  "title": "Asteroid Collision",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": []
- },
- "daily-temperatures": {
-  "title": "Daily Temperatures",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "online-stock-span": {
-  "title": "Online Stock Span",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": []
- },
- "car-fleet": {
-  "title": "Car Fleet",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "simplify-path": {
-  "title": "Simplify Path",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": []
- },
- "decode-string": {
-  "title": "Decode String",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": []
- },
- "remove-k-digits": {
-  "title": "Remove K Digits",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": []
- },
- "remove-all-adjacent-duplicates-in-string-ii": {
-  "title": "Remove All Adjacent Duplicates In String II",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": []
- },
- "132-pattern": {
-  "title": "132 Pattern",
-  "topic": "Stack",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-frequency-stack": {
-  "title": "Maximum Frequency Stack",
-  "topic": "Stack",
-  "difficulty": "Hard",
-  "lists": []
- },
- "largest-rectangle-in-histogram": {
-  "title": "Largest Rectangle In Histogram",
-  "topic": "Stack",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "binary-search": {
-  "title": "Binary Search",
-  "topic": "Binary Search",
-  "difficulty": "Easy",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "search-insert-position": {
-  "title": "Search Insert Position",
-  "topic": "Binary Search",
-  "difficulty": "Easy",
-  "lists": []
- },
- "guess-number-higher-or-lower": {
-  "title": "Guess Number Higher Or Lower",
-  "topic": "Binary Search",
-  "difficulty": "Easy",
-  "lists": []
- },
- "arranging-coins": {
-  "title": "Arranging Coins",
-  "topic": "Binary Search",
-  "difficulty": "Easy",
-  "lists": []
- },
- "squares-of-a-sorted-array": {
-  "title": "Squares of a Sorted Array",
-  "topic": "Binary Search",
-  "difficulty": "Easy",
-  "lists": []
- },
- "valid-perfect-square": {
-  "title": "Valid Perfect Square",
-  "topic": "Binary Search",
-  "difficulty": "Easy",
-  "lists": []
- },
- "sqrtx": {
-  "title": "Sqrt(x) ",
-  "topic": "Binary Search",
-  "difficulty": "Easy",
-  "lists": []
- },
- "single-element-in-a-sorted-array": {
-  "title": "Single Element in a Sorted Array",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "capacity-to-ship-packages-within-d-days": {
-  "title": "Capacity to Ship Packages",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-peak-element": {
-  "title": "Find Peak Element",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "successful-pairs-of-spells-and-potions": {
-  "title": "Successful Pairs of Spells and Potions",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "search-2d-matrix": {
-  "title": "Search a 2D Matrix",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "eating-bananas": {
-  "title": "Koko Eating Bananas",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "minimize-the-maximum-difference-of-pairs": {
-  "title": "Minimize the Maximum Difference of Pairs",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-minimum-in-rotated-sorted-array": {
-  "title": "Find Minimum In Rotated Sorted Array",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "find-target-in-rotated-sorted-array": {
-  "title": "Search In Rotated Sorted Array",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "search-in-rotated-sorted-array-ii": {
-  "title": "Search In Rotated Sorted Array II",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "time-based-key-value-store": {
-  "title": "Time Based Key Value Store",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "find-first-and-last-position-of-element-in-sorted-array": {
-  "title": "Find First And Last Position of Element In Sorted Array",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-number-of-removable-characters": {
-  "title": "Maximum Number of Removable Characters",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "populating-next-right-pointers-in-each-node": {
-  "title": "Populating Next Right Pointers In Each Node",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "search-suggestions-system": {
-  "title": "Search Suggestions System",
-  "topic": "Binary Search",
-  "difficulty": "Medium",
-  "lists": []
- },
- "split-array-largest-sum": {
-  "title": "Split Array Largest Sum",
-  "topic": "Binary Search",
-  "difficulty": "Hard",
-  "lists": []
- },
- "median-of-two-sorted-arrays": {
-  "title": "Median of Two Sorted Arrays",
-  "topic": "Binary Search",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "reverse-a-linked-list": {
-  "title": "Reverse Linked List",
-  "topic": "Linked List",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "merge-two-sorted-linked-lists": {
-  "title": "Merge Two Sorted Lists",
-  "topic": "Linked List",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "palindrome-linked-list": {
-  "title": "Palindrome Linked List",
-  "topic": "Linked List",
-  "difficulty": "Easy",
-  "lists": []
- },
- "remove-linked-list-elements": {
-  "title": "Remove Linked List Elements",
-  "topic": "Linked List",
-  "difficulty": "Easy",
-  "lists": []
- },
- "remove-duplicates-from-sorted-list": {
-  "title": "Remove Duplicates From Sorted List",
-  "topic": "Linked List",
-  "difficulty": "Easy",
-  "lists": []
- },
- "middle-of-the-linked-list": {
-  "title": "Middle of the Linked List",
-  "topic": "Linked List",
-  "difficulty": "Easy",
-  "lists": []
- },
- "intersection-of-two-linked-lists": {
-  "title": "Intersection of Two Linked Lists",
-  "topic": "Linked List",
-  "difficulty": "Easy",
-  "lists": []
- },
- "reorder-linked-list": {
-  "title": "Reorder List",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "maximum-twin-sum-of-a-linked-list": {
-  "title": "Maximum Twin Sum Of A Linked List",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "remove-node-from-end-of-linked-list": {
-  "title": "Remove Nth Node From End of List",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "swapping-nodes-in-a-linked-list": {
-  "title": "Swapping Nodes in a Linked List",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "lfu-cache": {
-  "title": "LFU Cache",
-  "topic": "Linked List",
-  "difficulty": "Hard",
-  "lists": []
- },
- "copy-linked-list-with-random-pointer": {
-  "title": "Copy List With Random Pointer",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "design-linked-list": {
-  "title": "Design Linked List",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "design-browser-history": {
-  "title": "Design Browser History",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "add-two-numbers": {
-  "title": "Add Two Numbers",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "linked-list-cycle-detection": {
-  "title": "Linked List Cycle",
-  "topic": "Linked List",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "find-duplicate-integer": {
-  "title": "Find The Duplicate Number",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "swap-nodes-in-pairs": {
-  "title": "Swap Nodes In Pairs",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "sort-list": {
-  "title": "Sort List",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "partition-list": {
-  "title": "Partition List",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "rotate-list": {
-  "title": "Rotate List",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "reverse-linked-list-ii": {
-  "title": "Reverse Linked List II",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "design-circular-queue": {
-  "title": "Design Circular Queue",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "insertion-sort-list": {
-  "title": "Insertion Sort List",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "split-linked-list-in-parts": {
-  "title": "Split Linked List in Parts",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": []
- },
- "lru-cache": {
-  "title": "LRU Cache",
-  "topic": "Linked List",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "merge-k-sorted-linked-lists": {
-  "title": "Merge K Sorted Lists",
-  "topic": "Linked List",
-  "difficulty": "Hard",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "reverse-nodes-in-k-group": {
-  "title": "Reverse Nodes In K Group",
-  "topic": "Linked List",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "binary-tree-inorder-traversal": {
-  "title": "Binary Tree Inorder Traversal",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": []
- },
- "binary-tree-preorder-traversal": {
-  "title": "Binary Tree Preorder Traversal",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": []
- },
- "binary-tree-postorder-traversal": {
-  "title": "Binary Tree Postorder Traversal",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": []
- },
- "invert-a-binary-tree": {
-  "title": "Invert Binary Tree",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "depth-of-binary-tree": {
-  "title": "Maximum Depth of Binary Tree",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "binary-tree-diameter": {
-  "title": "Diameter of Binary Tree",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "balanced-binary-tree": {
-  "title": "Balanced Binary Tree",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "same-binary-tree": {
-  "title": "Same Tree",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "subtree-of-a-binary-tree": {
-  "title": "Subtree of Another Tree",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "convert-sorted-array-to-binary-search-tree": {
-  "title": "Convert Sorted Array to Binary Search Tree",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": []
- },
- "merge-two-binary-trees": {
-  "title": "Merge Two Binary Trees",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": []
- },
- "path-sum": {
-  "title": "Path Sum",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": []
- },
- "construct-string-from-binary-tree": {
-  "title": "Construct String From Binary Tree",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": []
- },
- "lowest-common-ancestor-in-binary-search-tree": {
-  "title": "Lowest Common Ancestor of a Binary Search Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "insert-into-a-binary-search-tree": {
-  "title": "Insert into a Binary Search Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "delete-node-in-a-bst": {
-  "title": "Delete Node in a BST",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "level-order-traversal-of-binary-tree": {
-  "title": "Binary Tree Level Order Traversal",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "binary-tree-right-side-view": {
-  "title": "Binary Tree Right Side View",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "minimum-distance-between-bst-nodes": {
-  "title": "Minimum Distance between BST Nodes",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": []
- },
- "symmetric-tree": {
-  "title": "Symmetric Tree ",
-  "topic": "Trees",
-  "difficulty": "Easy",
-  "lists": []
- },
- "minimum-time-to-collect-all-apples-in-a-tree": {
-  "title": "Minimum Time to Collect All Apples in a Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "binary-tree-zigzag-level-order-traversal": {
-  "title": "Binary Tree Zigzag Level Order Traversal",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "construct-quad-tree": {
-  "title": "Construct Quad Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-duplicate-subtrees": {
-  "title": "Find Duplicate Subtrees",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "check-completeness-of-a-binary-tree": {
-  "title": "Check Completeness of a Binary Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "construct-binary-tree-from-inorder-and-postorder-traversal": {
-  "title": "Construct Binary Tree from Inorder and Postorder Traversal",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-width-of-binary-tree": {
-  "title": "Maximum Width of Binary Tree ",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "time-needed-to-inform-all-employees": {
-  "title": "Time Needed to Inform All Employees ",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "count-good-nodes-in-binary-tree": {
-  "title": "Count Good Nodes In Binary Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "valid-binary-search-tree": {
-  "title": "Validate Binary Search Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "kth-smallest-integer-in-bst": {
-  "title": "Kth Smallest Element In a Bst",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "binary-tree-from-preorder-and-inorder-traversal": {
-  "title": "Construct Binary Tree From Preorder And Inorder Traversal",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "unique-binary-search-trees": {
-  "title": "Unique Binary Search Trees",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "unique-binary-search-trees-ii": {
-  "title": "Unique Binary Search Trees II",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "sum-root-to-leaf-numbers": {
-  "title": "Sum Root to Leaf Numbers",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "house-robber-iii": {
-  "title": "House Robber III",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "flip-equivalent-binary-trees": {
-  "title": "Flip Equivalent Binary Trees",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "operations-on-tree": {
-  "title": "Operations On Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "all-possible-full-binary-trees": {
-  "title": "All Possible Full Binary Trees",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-bottom-left-tree-value": {
-  "title": "Find Bottom Left Tree Value",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "trim-a-binary-search-tree": {
-  "title": "Trim a Binary Search Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "binary-search-tree-iterator": {
-  "title": "Binary Search Tree Iterator",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "convert-bst-to-greater-tree": {
-  "title": "Convert Bst to Greater Tree",
-  "topic": "Trees",
-  "difficulty": "Medium",
-  "lists": []
- },
- "binary-tree-maximum-path-sum": {
-  "title": "Binary Tree Maximum Path Sum",
-  "topic": "Trees",
-  "difficulty": "Hard",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "serialize-and-deserialize-binary-tree": {
-  "title": "Serialize And Deserialize Binary Tree",
-  "topic": "Trees",
-  "difficulty": "Hard",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "implement-prefix-tree": {
-  "title": "Implement Trie Prefix Tree",
-  "topic": "Tries",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "design-word-search-data-structure": {
-  "title": "Design Add And Search Words Data Structure",
-  "topic": "Tries",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "extra-characters-in-a-string": {
-  "title": "Extra Characters in a String",
-  "topic": "Tries",
-  "difficulty": "Medium",
-  "lists": []
- },
- "search-for-word-ii": {
-  "title": "Word Search II",
-  "topic": "Tries",
-  "difficulty": "Hard",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "kth-largest-integer-in-a-stream": {
-  "title": "Kth Largest Element In a Stream",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Easy",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "last-stone-weight": {
-  "title": "Last Stone Weight",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Easy",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "k-closest-points-to-origin": {
-  "title": "K Closest Points to Origin",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "kth-largest-element-in-an-array": {
-  "title": "Kth Largest Element In An Array",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "task-scheduling": {
-  "title": "Task Scheduler",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "design-twitter-feed": {
-  "title": "Design Twitter",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "minimize-deviation-in-array": {
-  "title": "Minimize Deviation in Array",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Hard",
-  "lists": []
- },
- "maximum-subsequence-score": {
-  "title": "Maximum Subsequence Score",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": []
- },
- "single-threaded-cpu": {
-  "title": "Single Threaded Cpu",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": []
- },
- "seat-reservation-manager": {
-  "title": "Seat Reservation Manager",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": []
- },
- "process-tasks-using-servers": {
-  "title": "Process Tasks Using Servers",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-the-kth-largest-integer-in-the-array": {
-  "title": "Find The Kth Largest Integer In The Array",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": []
- },
- "reorganize-string": {
-  "title": "Reorganize String",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": []
- },
- "longest-happy-string": {
-  "title": "Longest Happy String",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": []
- },
- "car-pooling": {
-  "title": "Car Pooling",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-median-in-a-data-stream": {
-  "title": "Find Median From Data Stream",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Hard",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "maximum-performance-of-a-team": {
-  "title": "Maximum Performance of a Team",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Hard",
-  "lists": []
- },
- "ipo": {
-  "title": "IPO",
-  "topic": "Heap / Priority Queue",
-  "difficulty": "Hard",
-  "lists": []
- },
- "subsets": {
-  "title": "Subsets",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "combination-target-sum": {
-  "title": "Combination Sum",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "combinations": {
-  "title": "Combinations",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": []
- },
- "permutations": {
-  "title": "Permutations",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "subsets-ii": {
-  "title": "Subsets II",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "combination-target-sum-ii": {
-  "title": "Combination Sum II",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "permutations-ii": {
-  "title": "Permutations II",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": []
- },
- "search-for-word": {
-  "title": "Word Search",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "palindrome-partitioning": {
-  "title": "Palindrome Partitioning",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "restore-ip-addresses": {
-  "title": "Restore IP Addresses",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": []
- },
- "combinations-of-a-phone-number": {
-  "title": "Letter Combinations of a Phone Number",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "matchsticks-to-square": {
-  "title": "Matchsticks to Square",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": []
- },
- "splitting-a-string-into-descending-consecutive-values": {
-  "title": "Splitting a String Into Descending Consecutive Values",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-unique-binary-string": {
-  "title": "Find Unique Binary String",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-length-of-a-concatenated-string-with-unique-characters": {
-  "title": "Maximum Length of a Concatenated String With Unique Characters",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": []
- },
- "partition-to-k-equal-sum-subsets": {
-  "title": "Partition to K Equal Sum Subsets",
-  "topic": "Backtracking",
-  "difficulty": "Medium",
-  "lists": []
- },
- "n-queens": {
-  "title": "N Queens",
-  "topic": "Backtracking",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "n-queens-ii": {
-  "title": "N Queens II",
-  "topic": "Backtracking",
-  "difficulty": "Hard",
-  "lists": []
- },
- "island-perimeter": {
-  "title": "Island Perimeter",
-  "topic": "Graphs",
-  "difficulty": "Easy",
-  "lists": []
- },
- "verifying-an-alien-dictionary": {
-  "title": "Verifying An Alien Dictionary",
-  "topic": "Graphs",
-  "difficulty": "Easy",
-  "lists": []
- },
- "count-number-of-islands": {
-  "title": "Number of Islands",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "clone-graph": {
-  "title": "Clone Graph",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "max-area-of-island": {
-  "title": "Max Area of Island",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "count-sub-islands": {
-  "title": "Count Sub Islands",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "pacific-atlantic-water-flow": {
-  "title": "Pacific Atlantic Water Flow",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "surrounded-regions": {
-  "title": "Surrounded Regions",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "reorder-routes-to-make-all-paths-lead-to-the-city-zero": {
-  "title": "Reorder Routes to Make All Paths Lead to The City Zero",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "rotting-fruit": {
-  "title": "Rotting Oranges",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "islands-and-treasure": {
-  "title": "Walls And Gates",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "snakes-and-ladders": {
-  "title": "Snakes And Ladders",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "open-the-lock": {
-  "title": "Open The Lock",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-eventual-safe-states": {
-  "title": "Find Eventual Safe States",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "course-schedule": {
-  "title": "Course Schedule",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "course-schedule-ii": {
-  "title": "Course Schedule II",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "course-schedule-iv": {
-  "title": "Course Schedule IV",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "check-if-move-is-legal": {
-  "title": "Check if Move Is Legal",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "shortest-bridge": {
-  "title": "Shortest Bridge",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "shortest-path-in-binary-matrix": {
-  "title": "Shortest Path in Binary Matrix",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "redundant-connection": {
-  "title": "Redundant Connection",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "count-connected-components": {
-  "title": "Number of Connected Components In An Undirected Graph",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "valid-tree": {
-  "title": "Graph Valid Tree",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "accounts-merge": {
-  "title": "Accounts Merge",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-closest-node-to-given-two-nodes": {
-  "title": "Find Closest Node to Given Two Nodes",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "as-far-from-land-as-possible": {
-  "title": "As Far from Land as Possible",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "shortest-path-with-alternating-colors": {
-  "title": "Shortest Path with Alternating Colors",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-fuel-cost-to-report-to-the-capital": {
-  "title": "Minimum Fuel Cost to Report to the Capital",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-score-of-a-path-between-two-cities": {
-  "title": "Minimum Score of a Path Between Two Cities",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "number-of-closed-islands": {
-  "title": "Number of Closed Islands",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "number-of-enclaves": {
-  "title": "Number of Enclaves",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-number-of-vertices-to-reach-all-nodes": {
-  "title": "Minimum Number of Vertices to Reach all Nodes",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "is-graph-bipartite": {
-  "title": "Is Graph Bipartite?",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "evaluate-division": {
-  "title": "Evaluate Division",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "detonate-the-maximum-bombs": {
-  "title": "Detonate the Maximum Bombs",
-  "topic": "Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "largest-color-value-in-a-directed-graph": {
-  "title": "Largest Color Value in a Directed Graph",
-  "topic": "Graphs",
-  "difficulty": "Hard",
-  "lists": []
- },
- "minimum-number-of-days-to-eat-n-oranges": {
-  "title": "Minimum Number of Days to Eat N Oranges",
-  "topic": "Graphs",
-  "difficulty": "Hard",
-  "lists": []
- },
- "word-ladder": {
-  "title": "Word Ladder",
-  "topic": "Graphs",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "path-with-minimum-effort": {
-  "title": "Path with Minimum Effort",
-  "topic": "Advanced Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "reconstruct-flight-path": {
-  "title": "Reconstruct Itinerary",
-  "topic": "Advanced Graphs",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "min-cost-to-connect-points": {
-  "title": "Min Cost to Connect All Points",
-  "topic": "Advanced Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "network-delay-time": {
-  "title": "Network Delay Time",
-  "topic": "Advanced Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "path-with-maximum-probability": {
-  "title": "Path with Maximum Probability",
-  "topic": "Advanced Graphs",
-  "difficulty": "Medium",
-  "lists": []
- },
- "swim-in-rising-water": {
-  "title": "Swim In Rising Water",
-  "topic": "Advanced Graphs",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "foreign-dictionary": {
-  "title": "Alien Dictionary",
-  "topic": "Advanced Graphs",
-  "difficulty": "Hard",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "cheapest-flight-path": {
-  "title": "Cheapest Flights Within K Stops",
-  "topic": "Advanced Graphs",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "number-of-good-paths": {
-  "title": "Number of Good Paths",
-  "topic": "Advanced Graphs",
-  "difficulty": "Hard",
-  "lists": []
- },
- "remove-max-number-of-edges-to-keep-graph-fully-traversable": {
-  "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
-  "topic": "Advanced Graphs",
-  "difficulty": "Hard",
-  "lists": []
- },
- "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree": {
-  "title": "Find Critical and Pseudo Critical Edges in Minimum Spanning Tree",
-  "topic": "Advanced Graphs",
-  "difficulty": "Hard",
-  "lists": []
- },
- "climbing-stairs": {
-  "title": "Climbing Stairs",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "min-cost-climbing-stairs": {
-  "title": "Min Cost Climbing Stairs",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Easy",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "house-robber": {
-  "title": "House Robber",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "house-robber-ii": {
-  "title": "House Robber II",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "longest-palindromic-substring": {
-  "title": "Longest Palindromic Substring",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "palindromic-substrings": {
-  "title": "Palindromic Substrings",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "decode-ways": {
-  "title": "Decode Ways",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "coin-change": {
-  "title": "Coin Change",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "maximum-product-subarray": {
-  "title": "Maximum Product Subarray",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "word-break": {
-  "title": "Word Break",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "longest-increasing-subsequence": {
-  "title": "Longest Increasing Subsequence",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "partition-equal-subset-sum": {
-  "title": "Partition Equal Subset Sum",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "triangle": {
-  "title": "Triangle",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "delete-and-earn": {
-  "title": "Delete And Earn",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "paint-house": {
-  "title": "Paint House",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "combination-sum-iv": {
-  "title": "Combination Sum IV",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "perfect-squares": {
-  "title": "Perfect Squares",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "check-if-there-is-a-valid-partition-for-the-array": {
-  "title": "Check if There is a Valid Partition For The Array",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-subarray-min-product": {
-  "title": "Maximum Subarray Min Product",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-cost-for-tickets": {
-  "title": "Minimum Cost For Tickets",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "integer-break": {
-  "title": "Integer Break",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "number-of-longest-increasing-subsequence": {
-  "title": "Number of Longest Increasing Subsequence",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "stickers-to-spell-word": {
-  "title": "Stickers to Spell Word",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "n-th-tribonacci-number": {
-  "title": "N-th Tribonacci Number",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Easy",
-  "lists": []
- },
- "uncrossed-lines": {
-  "title": "Uncrossed Lines",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "solving-questions-with-brainpower": {
-  "title": "Solving Questions With Brainpower",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "count-ways-to-build-good-strings": {
-  "title": "Count Ways to Build Good Strings",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "new-21-game": {
-  "title": "New 21 Game",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "best-team-with-no-conflicts": {
-  "title": "Best Team with no Conflicts",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "stone-game-iii": {
-  "title": "Stone Game III",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "concatenated-words": {
-  "title": "Concatenated Words",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "maximize-score-after-n-operations": {
-  "title": "Maximize Score after N Operations",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "find-the-longest-valid-obstacle-course-at-each-position": {
-  "title": "Find the Longest Valid Obstacle Course at Each Position",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "count-all-valid-pickup-and-delivery-options": {
-  "title": "Count all Valid Pickup and Delivery Options",
-  "topic": "1-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "count-paths": {
-  "title": "Unique Paths",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "unique-paths-ii": {
-  "title": "Unique Paths II",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "longest-common-subsequence": {
-  "title": "Longest Common Subsequence",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "longest-palindromic-subsequence": {
-  "title": "Longest Palindromic Subsequence",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "last-stone-weight-ii": {
-  "title": "Last Stone Weight II",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "buy-and-sell-crypto-with-cooldown": {
-  "title": "Best Time to Buy And Sell Stock With Cooldown",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "coin-change-ii": {
-  "title": "Coin Change II",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "target-sum": {
-  "title": "Target Sum",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "interleaving-string": {
-  "title": "Interleaving String",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "stone-game": {
-  "title": "Stone Game",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-path-sum": {
-  "title": "Minimum Path Sum",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "longest-increasing-path-in-matrix": {
-  "title": "Longest Increasing Path In a Matrix",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "maximal-square": {
-  "title": "Maximal Square",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "ones-and-zeroes": {
-  "title": "Ones and Zeroes",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-alternating-subsequence-sum": {
-  "title": "Maximum Alternating Subsequence Sum",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "count-subsequences": {
-  "title": "Distinct Subsequences",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "edit-distance": {
-  "title": "Edit Distance",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "count-vowels-permutation": {
-  "title": "Count Vowels Permutation",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "burst-balloons": {
-  "title": "Burst Balloons",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "number-of-ways-to-rearrange-sticks-with-k-sticks-visible": {
-  "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "regular-expression-matching": {
-  "title": "Regular Expression Matching",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "stone-game-ii": {
-  "title": "Stone Game II",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "flip-string-to-monotone-increasing": {
-  "title": "Flip String to Monotone Increasing",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-value-of-k-coins-from-piles": {
-  "title": "Maximum Value of K Coins from Piles",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "number-of-music-playlists": {
-  "title": "Number of Music Playlists",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "number-of-ways-to-form-a-target-string-given-a-dictionary": {
-  "title": "Number of Ways to Form a Target String Given a Dictionary",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "profitable-schemes": {
-  "title": "Profitable Schemes",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "minimum-cost-to-cut-a-stick": {
-  "title": "Minimum Cost to Cut a Stick",
-  "topic": "2-D Dynamic Programming",
-  "difficulty": "Hard",
-  "lists": []
- },
- "maximum-subarray": {
-  "title": "Maximum Subarray",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "maximum-sum-circular-subarray": {
-  "title": "Maximum Sum Circular Subarray",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "longest-turbulent-subarray": {
-  "title": "Longest Turbulent Array",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "jump-game": {
-  "title": "Jump Game",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "jump-game-ii": {
-  "title": "Jump Game II",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "jump-game-vii": {
-  "title": "Jump Game VII",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "gas-station": {
-  "title": "Gas Station",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "hand-of-straights": {
-  "title": "Hand of Straights",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "minimize-maximum-of-array": {
-  "title": "Minimize Maximum of Array",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "dota2-senate": {
-  "title": "Dota2 Senate",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-points-you-can-obtain-from-cards": {
-  "title": "Maximum Points You Can Obtain From Cards",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "merge-triplets-to-form-target": {
-  "title": "Merge Triplets to Form Target Triplet",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "partition-labels": {
-  "title": "Partition Labels",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "valid-parenthesis-string": {
-  "title": "Valid Parenthesis String",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "eliminate-maximum-number-of-monsters": {
-  "title": "Eliminate Maximum Number of Monsters",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "two-city-scheduling": {
-  "title": "Two City Scheduling",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "maximum-length-of-pair-chain": {
-  "title": "Maximum Length of Pair Chain",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-deletions-to-make-character-frequencies-unique": {
-  "title": "Minimum Deletions to Make Character Frequencies Unique",
-  "topic": "Greedy",
-  "difficulty": "Medium",
-  "lists": []
- },
- "candy": {
-  "title": "Candy",
-  "topic": "Greedy",
-  "difficulty": "Hard",
-  "lists": []
- },
- "insert-new-interval": {
-  "title": "Insert Interval",
-  "topic": "Intervals",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "merge-intervals": {
-  "title": "Merge Intervals",
-  "topic": "Intervals",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "non-overlapping-intervals": {
-  "title": "Non Overlapping Intervals",
-  "topic": "Intervals",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "meeting-schedule": {
-  "title": "Meeting Rooms",
-  "topic": "Intervals",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "meeting-schedule-ii": {
-  "title": "Meeting Rooms II",
-  "topic": "Intervals",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "remove-covered-intervals": {
-  "title": "Remove Covered Intervals",
-  "topic": "Intervals",
-  "difficulty": "Medium",
-  "lists": []
- },
- "minimum-interval-including-query": {
-  "title": "Minimum Interval to Include Each Query",
-  "topic": "Intervals",
-  "difficulty": "Hard",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "data-stream-as-disjoint-intervals": {
-  "title": "Data Stream as Disjoint Intervals",
-  "topic": "Intervals",
-  "difficulty": "Hard",
-  "lists": []
- },
- "excel-sheet-column-title": {
-  "title": "Excel Sheet Column Title",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": []
- },
- "greatest-common-divisor-of-strings": {
-  "title": "Greatest Common Divisor of Strings",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": []
- },
- "count-odd-numbers-in-an-interval-range": {
-  "title": "Count Odd Numbers in an Interval Range",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": []
- },
- "matrix-diagonal-sum": {
-  "title": "Matrix Diagonal Sum",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": []
- },
- "max-points-on-a-line": {
-  "title": "Maximum Points on a Line",
-  "topic": "Math & Geometry",
-  "difficulty": "Hard",
-  "lists": []
- },
- "rotate-matrix": {
-  "title": "Rotate Image",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "spiral-matrix": {
-  "title": "Spiral Matrix",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "spiral-matrix-ii": {
-  "title": "Spiral Matrix II ",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": []
- },
- "set-zeroes-in-matrix": {
-  "title": "Set Matrix Zeroes",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "non-cyclical-number": {
-  "title": "Happy Number",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "plus-one": {
-  "title": "Plus One",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "palindrome-number": {
-  "title": "Palindrome Number",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": []
- },
- "ugly-number": {
-  "title": "Ugly Number",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": []
- },
- "shift-2d-grid": {
-  "title": "Shift 2D Grid",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": []
- },
- "roman-to-integer": {
-  "title": "Roman to Integer",
-  "topic": "Math & Geometry",
-  "difficulty": "Easy",
-  "lists": []
- },
- "integer-to-roman": {
-  "title": "Integer to Roman",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": []
- },
- "pow-x-n": {
-  "title": "Pow(x, n)",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "multiply-strings": {
-  "title": "Multiply Strings",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "count-squares": {
-  "title": "Detect Squares",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "robot-bounded-in-circle": {
-  "title": "Robot Bounded In Circle",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": []
- },
- "zigzag-conversion": {
-  "title": "Zigzag Conversion",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": []
- },
- "find-missing-observations": {
-  "title": "Find Missing Observations",
-  "topic": "Math & Geometry",
-  "difficulty": "Medium",
-  "lists": []
- },
- "single-number": {
-  "title": "Single Number",
-  "topic": "Bit Manipulation",
-  "difficulty": "Easy",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "number-of-one-bits": {
-  "title": "Number of 1 Bits",
-  "topic": "Bit Manipulation",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "counting-bits": {
-  "title": "Counting Bits",
-  "topic": "Bit Manipulation",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "reverse-bits": {
-  "title": "Reverse Bits",
-  "topic": "Bit Manipulation",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "missing-number": {
-  "title": "Missing Number",
-  "topic": "Bit Manipulation",
-  "difficulty": "Easy",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "shuffle-the-array": {
-  "title": "Shuffle the Array",
-  "topic": "Bit Manipulation",
-  "difficulty": "Easy",
-  "lists": []
- },
- "add-to-array-form-of-integer": {
-  "title": "Add to Array-Form of Integer",
-  "topic": "Bit Manipulation",
-  "difficulty": "Easy",
-  "lists": []
- },
- "sum-of-two-integers": {
-  "title": "Sum of Two Integers",
-  "topic": "Bit Manipulation",
-  "difficulty": "Medium",
-  "lists": [
-   "blind75",
-   "neetcode150"
-  ]
- },
- "reverse-integer": {
-  "title": "Reverse Integer",
-  "topic": "Bit Manipulation",
-  "difficulty": "Medium",
-  "lists": [
-   "neetcode150"
-  ]
- },
- "add-binary": {
-  "title": "Add Binary",
-  "topic": "Bit Manipulation",
-  "difficulty": "Easy",
-  "lists": []
- },
- "create-hello-world-function": {
-  "title": "Create Hello World Function",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "counter": {
-  "title": "Counter",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "counter-ii": {
-  "title": "Counter II",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "apply-transform-over-each-element-in-array": {
-  "title": "Apply Transform over each Element in Array",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "filter-elements-from-array": {
-  "title": "Filter Elements from Array",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "array-reduce-transformation": {
-  "title": "Array Reduce Transformation",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "function-composition": {
-  "title": "Function Composition",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "allow-one-function-call": {
-  "title": "Allow One Function Call",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "memoize": {
-  "title": "Memoize",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "curry": {
-  "title": "Curry",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "sleep": {
-  "title": "Sleep",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "promise-time-limit": {
-  "title": "Promise Time Limit",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "promise-pool": {
-  "title": "Promise Pool",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "cache-with-time-limit": {
-  "title": "Cache With Time Limit",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "debounce": {
-  "title": "Debounce",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "throttle": {
-  "title": "Throttle",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "json-deep-equal": {
-  "title": "JSON Deep Equal",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "convert-object-to-json-string": {
-  "title": "Convert Object to JSON String",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "array-of-objects-to-matrix": {
-  "title": "Array of Objects to Matrix",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "differences-between-two-objects": {
-  "title": "Difference Between Two Objects",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "chunk-array": {
-  "title": "Chunk Array",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "flatten-deeply-nested-array": {
-  "title": "Flatten Deeply Nested Array",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "array-prototype-last": {
-  "title": "Array Prototype Last",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "group-by": {
-  "title": "Group By",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "check-if-object-instance-of-class": {
-  "title": "Check if Object Instance of Class",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "call-function-with-custom-context": {
-  "title": "Call Function with Custom Context",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "event-emitter": {
-  "title": "Event Emitter",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- },
- "array-wrapper": {
-  "title": "Array Wrapper",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "generate-fibonacci-sequence": {
-  "title": "Generate Fibonacci Sequence",
-  "topic": "JavaScript",
-  "difficulty": "Easy",
-  "lists": []
- },
- "nested-array-generator": {
-  "title": "Nested Array Generator",
-  "topic": "JavaScript",
-  "difficulty": "Medium",
-  "lists": []
- }
+"132-pattern": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"2-keys-keyboard": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"3sum-smaller": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"4-keys-keyboard": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"4sum": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"accounts-merge": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"add-binary": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"add-bold-tag-in-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"add-to-array-form-of-integer": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"add-two-numbers": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"add-two-numbers-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"adding-spaces-to-a-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"all-paths-from-source-lead-to-destination": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"all-possible-full-binary-trees": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"allow-one-function-call": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"alternating-groups-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"amount-of-new-area-painted-each-day": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Intervals"
+},
+"anagram-groups": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"analyze-user-website-visit-pattern": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"android-unlock-patterns": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"append-characters-to-string-to-make-subsequence": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"apply-operations-to-an-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"apply-operations-to-maximize-score": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Greedy"
+},
+"apply-substitutions": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"apply-transform-over-each-element-in-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"arithmetic-slices-ii-subsequence": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"armstrong-number": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"arranging-coins": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Binary Search"
+},
+"array-of-objects-to-matrix": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"array-prototype-last": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"array-reduce-transformation": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"array-transformation": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"array-with-elements-not-equal-to-average-of-neighbors": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"array-wrapper": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"as-far-from-land-as-possible": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"assign-cookies": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"asteroid-collision": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Stack"
+},
+"average-height-of-buildings-in-each-segment": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"average-waiting-time": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"backspace-string-compare": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"bag-of-tokens": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"balanced-binary-tree": {
+"difficulty": "Easy",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"baseball-game": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Stack"
+},
+"basic-calculator-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"basic-calculator-iii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Stack"
+},
+"before-and-after-puzzle": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"best-meeting-point": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"best-sightseeing-pair": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"best-team-with-no-conflicts": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"best-time-to-buy-and-sell-stock-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"binary-search": {
+"difficulty": "Easy",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"binary-search-tree-iterator": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"binary-search-tree-iterator-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"binary-searchable-numbers-in-an-unsorted-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"binary-subarrays-with-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"binary-tree-diameter": {
+"difficulty": "Easy",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"binary-tree-from-preorder-and-inorder-traversal": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"binary-tree-inorder-traversal": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Trees"
+},
+"binary-tree-longest-consecutive-sequence": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"binary-tree-longest-consecutive-sequence-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"binary-tree-maximum-path-sum": {
+"difficulty": "Hard",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"binary-tree-postorder-traversal": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Trees"
+},
+"binary-tree-preorder-traversal": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Trees"
+},
+"binary-tree-right-side-view": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"binary-tree-upside-down": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"binary-tree-vertical-order-traversal": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"binary-tree-zigzag-level-order-traversal": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"bitwise-and-of-numbers-range": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"bitwise-xor-of-all-pairings": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"boats-to-save-people": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"bomb-enemy": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"boundary-of-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"brace-expansion": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"brick-wall": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"brightest-position-on-street": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"build-a-matrix-with-conditions": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"buildings-with-an-ocean-view": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"burst-balloons": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"bus-routes": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"buy-and-sell-crypto": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Sliding Window"
+},
+"buy-and-sell-crypto-with-cooldown": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"buy-two-chocolates": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Greedy"
+},
+"cache-with-time-limit": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"calculate-money-in-leetcode-bank": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"call-function-with-custom-context": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"campus-bikes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"campus-bikes-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"can-place-flowers": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"candy": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"candy-crush": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"capacity-to-ship-packages-within-d-days": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"car-fleet": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Stack"
+},
+"car-pooling": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"champagne-tower": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"cheapest-flight-path": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"check-completeness-of-a-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"check-if-a-number-is-majority-element-in-a-sorted-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Binary Search"
+},
+"check-if-a-parentheses-string-can-be-valid": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"check-if-a-string-contains-all-binary-codes-of-size-k": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"check-if-an-array-is-consecutive": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"check-if-array-is-sorted-and-rotated": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"check-if-grid-can-be-cut-into-sections": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"check-if-move-is-legal": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"check-if-number-is-a-sum-of-powers-of-three": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"check-if-object-instance-of-class": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"check-if-one-string-swap-can-make-strings-equal": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Greedy"
+},
+"check-if-string-is-decomposable-into-value-equal-substrings": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"check-if-there-is-a-valid-partition-for-the-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"check-if-two-expression-trees-are-equivalent": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"check-if-two-string-arrays-are-equivalent": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"cherry-pickup": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"cherry-pickup-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"choose-numbers-from-two-arrays-in-range": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"chunk-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"circular-sentence": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"clear-digits": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Stack"
+},
+"climbing-stairs": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"clone-graph": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"clone-n-ary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"closest-binary-search-tree-value": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"closest-binary-search-tree-value-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Trees"
+},
+"closest-leaf-in-a-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"closest-node-to-path-in-tree": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Trees"
+},
+"closest-prime-numbers-in-range": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"coin-change": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"coin-change-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"coin-path": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"combination-sum-iv": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"combination-target-sum": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"combination-target-sum-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"combinations": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"combinations-of-a-phone-number": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"concatenated-words": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"concatenation-of-array": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"confusing-number": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"confusing-number-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Backtracking"
+},
+"connecting-cities-with-minimum-cost": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"constrained-subsequence-sum": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"construct-binary-tree-from-inorder-and-postorder-traversal": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"construct-binary-tree-from-preorder-and-postorder-traversal": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"construct-binary-tree-from-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"construct-k-palindrome-strings": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"construct-quad-tree": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Trees"
+},
+"construct-smallest-number-from-di-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"construct-string-from-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"construct-string-with-repeat-limit": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"construct-the-lexicographically-largest-valid-sequence": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"contains-duplicate-ii": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Sliding Window"
+},
+"contiguous-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"continuous-subarray-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"convert-1d-array-into-2d-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"convert-an-array-into-a-2d-array-with-conditions": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"convert-binary-search-tree-to-sorted-doubly-linked-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"convert-bst-to-greater-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"convert-object-to-json-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"convert-sorted-array-to-binary-search-tree": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"convex-polygon": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"copy-linked-list-with-random-pointer": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"count-all-valid-pickup-and-delivery-options": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"count-connected-components": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"count-days-without-meetings": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"count-good-nodes-in-binary-tree": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"count-nodes-equal-to-sum-of-descendants": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"count-number-of-bad-pairs": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"count-number-of-islands": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"count-number-of-maximum-bitwise-or-subsets": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"count-number-of-nice-subarrays": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"count-number-of-teams": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"count-odd-numbers-in-an-interval-range": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"count-of-matches-in-tournament": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"count-of-substrings-containing-every-vowel-and-k-consonants-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"count-pairs-in-two-arrays": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"count-pairs-of-equal-substrings-with-minimum-difference": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"count-paths": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"count-positions-on-street-with-required-brightness": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"count-prefix-and-suffix-pairs-i": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Tries"
+},
+"count-prefix-and-suffix-pairs-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Tries"
+},
+"count-primes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"count-servers-that-communicate": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"count-square-submatrices-with-all-ones": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"count-squares": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"count-strictly-increasing-subarrays": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"count-sub-islands": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"count-subarrays-where-max-element-appears-at-least-k-times": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"count-subarrays-with-more-ones-than-zeros": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"count-subsequences": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"count-substrings-with-only-one-distinct-letter": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"count-the-number-of-complete-components": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"count-the-number-of-consistent-strings": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"count-the-number-of-fair-pairs": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"count-total-number-of-colored-cells": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"count-triplets-that-can-form-two-arrays-of-equal-xor": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"count-triplets-with-even-xor-set-bits-i": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"count-unguarded-cells-in-the-grid": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"count-univalue-subtrees": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"count-vowel-strings-in-ranges": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"count-vowels-permutation": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"count-ways-to-build-good-strings": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"count-ways-to-distribute-candies": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"counter": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"counter-ii": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"counting-bits": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"counting-elements": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"counting-words-with-a-given-prefix": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Tries"
+},
+"course-schedule": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"course-schedule-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"course-schedule-iv": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"cousins-in-binary-tree-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"crawler-log-folder": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Stack"
+},
+"create-binary-tree-from-descriptions": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"create-hello-world-function": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"curry": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"custom-sort-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"cutting-ribbons": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"daily-temperatures": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Stack"
+},
+"data-stream-as-disjoint-intervals": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Intervals"
+},
+"debounce": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"decode-string": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Stack"
+},
+"decode-ways": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"defuse-the-bomb": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Sliding Window"
+},
+"delete-and-earn": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"delete-leaves-with-a-given-value": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Trees"
+},
+"delete-n-nodes-after-m-nodes-of-a-linked-list": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Linked List"
+},
+"delete-node-in-a-bst": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Trees"
+},
+"delete-nodes-and-return-forest": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"delete-nodes-from-linked-list-present-in-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"delete-tree-nodes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"depth-of-binary-tree": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"depth-of-bst-given-insertion-order": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"design-a-file-sharing-system": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"design-a-food-rating-system": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-a-leaderboard": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-a-todo-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-browser-history": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"design-circular-queue": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"design-compressed-string-iterator": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-excel-sum-formula": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-file-system": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Tries"
+},
+"design-hashmap": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"design-hashset": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"design-hit-counter": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-in-memory-file-system": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Tries"
+},
+"design-linked-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"design-log-storage-system": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-most-recently-used-queue": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-parking-system": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-phone-directory": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-search-autocomplete-system": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Tries"
+},
+"design-snake-game": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-sql": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-tic-tac-toe": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-twitter-feed": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"design-underground-system": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"design-video-sharing-platform": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"design-word-search-data-structure": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Tries"
+},
+"destination-city": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"detonate-the-maximum-bombs": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"diameter-of-n-ary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"diet-plan-performance": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Sliding Window"
+},
+"differences-between-two-objects": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"different-ways-to-add-parentheses": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"digit-count-in-range": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"distance-to-a-cycle-in-undirected-graph": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"distinct-numbers-in-each-subarray": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"distribute-candies-among-children-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"distribute-coins-in-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"divide-array-into-arrays-with-max-difference": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"divide-array-into-equal-pairs": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"divide-array-into-increasing-sequences": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Greedy"
+},
+"divide-chocolate": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Binary Search"
+},
+"divide-intervals-into-minimum-number-of-groups": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"divide-nodes-into-the-maximum-number-of-groups": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"divide-players-into-teams-of-equal-skill": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"dot-product-of-two-sparse-vectors": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"dota2-senate": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"duplicate-integer": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"eating-bananas": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"edit-distance": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"elements-in-array-after-removing-and-replacing-elements": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"eliminate-maximum-number-of-monsters": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"employee-free-time": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Intervals"
+},
+"encode-and-decode-tinyurl": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"encode-n-ary-tree-to-binary-tree": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Trees"
+},
+"encode-number": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"encode-string-with-shortest-length": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"equal-tree-partition": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"evaluate-boolean-binary-tree": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"evaluate-division": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"evaluate-reverse-polish-notation": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Stack"
+},
+"even-odd-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"event-emitter": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"excel-sheet-column-title": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"extra-characters-in-a-string": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Tries"
+},
+"factor-combinations": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"faulty-sensor": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"filling-bookcase-shelves": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"filter-elements-from-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"final-array-state-after-k-multiplication-operations-i": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"final-prices-with-a-special-discount-in-a-shop": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Stack"
+},
+"find-all-anagrams-in-a-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-all-duplicates-in-an-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-all-numbers-disappeared-in-an-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-all-people-with-secret": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"find-all-possible-recipes-from-given-supplies": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"find-all-the-lonely-nodes": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"find-anagram-mappings": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-bottom-left-tree-value": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"find-building-where-alice-and-bob-can-meet": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"find-champion-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"find-closest-node-to-given-two-nodes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"find-common-characters": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"find-distance-in-a-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"find-duplicate-integer": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"find-duplicate-subtrees": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"find-eventual-safe-states": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"find-first-and-last-position-of-element-in-sorted-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"find-first-palindromic-string-in-the-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"find-if-array-can-be-sorted": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"find-in-mountain-array": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"find-k-closest-elements": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Sliding Window"
+},
+"find-k-length-substrings-with-no-repeated-characters": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"find-k-th-smallest-pair-distance": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Binary Search"
+},
+"find-kth-bit-in-nth-binary-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"find-largest-value-in-each-tree-row": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"find-leaves-of-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"find-lucky-integer-in-an-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-median-in-a-data-stream": {
+"difficulty": "Hard",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"find-minimum-diameter-after-merging-two-trees": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"find-minimum-in-rotated-sorted-array": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"find-missing-and-repeated-values": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-missing-observations": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"find-nearest-right-node-in-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"find-peak-element": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"find-permutation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"find-pivot-index": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-polygon-with-the-largest-perimeter": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-root-of-n-ary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"find-smallest-common-element-in-all-rows": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-target-in-rotated-sorted-array": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"find-the-celebrity": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"find-the-derangement-of-an-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"find-the-difference": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"find-the-difference-of-two-arrays": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-the-index-of-the-first-occurrence-in-a-string": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-the-index-of-the-large-integer": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"find-the-kth-largest-integer-in-the-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"find-the-length-of-the-longest-common-prefix": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"find-the-longest-substring-containing-vowels-in-even-counts": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"find-the-longest-valid-obstacle-course-at-each-position": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"find-the-maximum-sum-of-node-values": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Greedy"
+},
+"find-the-minimum-and-maximum-number-of-nodes-between-critical-points": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"find-the-power-of-k-size-subarrays-i": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"find-the-punishment-number-of-an-integer": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"find-the-safest-path-in-a-grid": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"find-the-town-judge": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"find-the-winner-of-the-circular-game": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"find-unique-binary-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"find-valid-matrix-given-row-and-column-sums": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"find-words-that-can-be-formed-by-characters": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"finding-the-number-of-visible-mountains": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"first-missing-positive": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"first-unique-character-in-a-string": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"first-unique-number": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"fixed-point": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Binary Search"
+},
+"flatten-2d-vector": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"flatten-deeply-nested-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"flatten-nested-list-iterator": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"flip-columns-for-maximum-number-of-equal-rows": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"flip-equivalent-binary-trees": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"flip-game": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"flip-game-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"flip-string-to-monotone-increasing": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"flood-fill": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Graphs"
+},
+"foreign-dictionary": {
+"difficulty": "Hard",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"freedom-trail": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"frequency-of-the-most-frequent-element": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"fruit-into-baskets": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"function-composition": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"furthest-building-you-can-reach": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"game-of-nim": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"gas-station": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"generalized-abbreviation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"generate-fibonacci-sequence": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"generate-parentheses": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"get-equal-substrings-within-budget": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"greatest-common-divisor-of-strings": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"greatest-common-divisor-traversal": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"grid-game": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"group-by": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"group-shifted-strings": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"grumpy-bookstore-owner": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"guess-number-higher-or-lower": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"guess-the-majority-in-a-hidden-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"hand-of-straights": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"handshakes-that-dont-cross": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"height-checker": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"hexspeak": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"high-five": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"house-robber": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"house-robber-ii": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"house-robber-iii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Trees"
+},
+"house-robber-iv": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"how-many-apples-can-you-put-into-the-basket": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Greedy"
+},
+"image-smoother": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"implement-prefix-tree": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Tries"
+},
+"implement-queue-using-stacks": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Stack"
+},
+"implement-stack-using-queues": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Stack"
+},
+"index-pairs-of-a-string": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Tries"
+},
+"inorder-successor-in-bst": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"inorder-successor-in-bst-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"insert-delete-getrandom-o1": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"insert-greatest-common-divisors-in-linked-list": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"insert-into-a-binary-search-tree": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Trees"
+},
+"insert-into-a-sorted-circular-linked-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"insert-new-interval": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Intervals"
+},
+"insertion-sort-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"integer-break": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"integer-to-english-words": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"integer-to-roman": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"interleaving-string": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"intersection-of-three-sorted-arrays": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"intersection-of-two-arrays": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"intersection-of-two-linked-lists": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Linked List"
+},
+"interval-list-intersections": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"invert-a-binary-tree": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"ip-to-cidr": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"ipo": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"is-anagram": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"is-graph-bipartite": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"is-palindrome": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"is-subsequence": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"island-perimeter": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"islands-and-treasure": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"isomorphic-strings": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"json-deep-equal": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"jump-game": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"jump-game-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"jump-game-vii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"k-closest-points-to-origin": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"k-empty-slots": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Sliding Window"
+},
+"k-inverse-pairs-array": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"k-th-smallest-in-lexicographical-order": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"k-th-symbol-in-grammar": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"kill-process": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"knight-dialer": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"kth-distinct-string-in-an-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"kth-largest-element-in-an-array": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"kth-largest-integer-in-a-stream": {
+"difficulty": "Easy",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"kth-largest-sum-in-a-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"kth-smallest-integer-in-bst": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"kth-smallest-product-of-two-sorted-arrays": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Binary Search"
+},
+"kth-smallest-subarray-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"largest-3-same-digit-number-in-string": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"largest-bst-subtree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"largest-color-value-in-a-directed-graph": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"largest-combination-with-bitwise-and-greater-than-zero": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"largest-divisible-subset": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"largest-local-values-in-a-matrix": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"largest-number": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"largest-odd-number-in-string": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"largest-rectangle-in-histogram": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Stack"
+},
+"largest-subarray-length-k": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Greedy"
+},
+"largest-submatrix-with-rearrangements": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"largest-substring-between-two-equal-characters": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"largest-unique-number": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"last-stone-weight": {
+"difficulty": "Easy",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"last-stone-weight-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"leaf-similar-trees": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"least-number-of-unique-integers-after-k-removals": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"leftmost-column-with-at-least-a-one": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"lemonade-change": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"length-of-last-word": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"length-of-longest-fibonacci-subsequence": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"length-of-longest-subarray-with-at-most-k-frequency": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"letter-tile-possibilities": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"level-order-traversal-of-binary-tree": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"lexicographical-numbers": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"lfu-cache": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"line-reflection": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"linked-list-cycle-detection": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"linked-list-in-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"logger-rate-limiter": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"lonely-pixel-i": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"lonely-pixel-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"longest-common-prefix": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"longest-common-subsequence": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"longest-common-subsequence-between-sorted-arrays": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"longest-consecutive-sequence": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"longest-happy-string": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"longest-ideal-subsequence": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"longest-increasing-path-in-matrix": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"longest-increasing-subsequence": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"longest-line-of-consecutive-one-in-matrix": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"longest-nice-subarray": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"longest-palindrome": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"longest-palindromic-subsequence": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"longest-palindromic-subsequence-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"longest-palindromic-substring": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"longest-repeating-substring": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"longest-repeating-substring-with-replacement": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Sliding Window"
+},
+"longest-strictly-increasing-or-strictly-decreasing-subarray": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"longest-string-chain": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"longest-subarray-with-maximum-bitwise-and": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"longest-substring-with-at-most-k-distinct-characters": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"longest-substring-with-at-most-two-distinct-characters": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"longest-substring-without-duplicates": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Sliding Window"
+},
+"longest-turbulent-subarray": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"longest-word-with-all-prefixes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Tries"
+},
+"lowest-common-ancestor-in-binary-search-tree": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"lowest-common-ancestor-of-a-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"lowest-common-ancestor-of-a-binary-tree-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"lowest-common-ancestor-of-a-binary-tree-iii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"lowest-common-ancestor-of-a-binary-tree-iv": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"lru-cache": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"lucky-numbers-in-a-matrix": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"magic-squares-in-grid": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"majority-element": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"majority-element-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"make-a-positive-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"make-array-non-decreasing-or-non-increasing": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"make-lexicographically-smallest-array-by-swapping-elements": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"make-sum-divisible-by-p": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"make-the-string-great": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Stack"
+},
+"make-two-arrays-equal-by-reversing-subarrays": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Greedy"
+},
+"making-a-large-island": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"match-alphanumerical-pattern-in-matrix-i": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"matchsticks-to-square": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"matrix-diagonal-sum": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"max-area-of-island": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"max-chunks-to-make-sorted": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"max-consecutive-ones": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"max-consecutive-ones-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"max-consecutive-ones-iii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"max-points-on-a-line": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"max-stack": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Stack"
+},
+"max-water-container": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"maximal-score-after-applying-k-operations": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximal-square": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"maximize-score-after-n-operations": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"maximize-the-beauty-of-the-garden": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Greedy"
+},
+"maximize-ysum-by-picking-a-triplet-of-distinct-xvalues": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-absolute-sum-of-any-subarray": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-alternating-subarray-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"maximum-alternating-subsequence-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"maximum-ascending-subarray-sum": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"maximum-average-subarray-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Binary Search"
+},
+"maximum-average-subtree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"maximum-beauty-of-an-array-after-applying-operation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"maximum-candies-allocated-to-k-children": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"maximum-cost-of-trip-with-k-highways": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"maximum-difference-between-even-and-odd-frequency-i": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"maximum-distance-in-arrays": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"maximum-element-after-decreasing-and-rearranging": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-employees-to-be-invited-to-a-meeting": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"maximum-frequency-after-subarray-operation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-frequency-stack": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Stack"
+},
+"maximum-length-of-a-concatenated-string-with-unique-characters": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"maximum-length-of-pair-chain": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-matrix-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-nesting-depth-of-the-parentheses": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-number-of-accepted-invitations": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"maximum-number-of-balloons": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"maximum-number-of-fish-in-a-grid": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"maximum-number-of-k-divisible-components": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"maximum-number-of-ones": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"maximum-number-of-people-that-can-be-caught-in-tag": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"maximum-number-of-points-from-grid-queries": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"maximum-number-of-points-with-cost": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"maximum-number-of-removable-characters": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"maximum-number-of-vowels-in-a-substring-of-given-length": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"maximum-odd-binary-number": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-of-minimum-values-in-all-subarrays": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"maximum-performance-of-a-team": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"maximum-points-you-can-obtain-from-cards": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-product-difference-between-two-pairs": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"maximum-product-of-the-length-of-two-palindromic-subsequences": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"maximum-product-subarray": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"maximum-profit-from-trading-stocks": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"maximum-profit-in-job-scheduling": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"maximum-score-after-splitting-a-string": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"maximum-score-from-removing-substrings": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-score-of-a-good-subarray": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-score-words-formed-by-letters": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Backtracking"
+},
+"maximum-size-subarray-sum-equals-k": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"maximum-subarray": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"maximum-subarray-min-product": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"maximum-subarray-sum-after-one-operation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"maximum-subsequence-score": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"maximum-sum-circular-subarray": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"maximum-sum-of-3-non-overlapping-subarrays": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"maximum-sum-of-distinct-subarrays-with-length-k": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"maximum-sum-score-of-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"maximum-swap": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-total-importance-of-roads": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"maximum-transactions-without-negative-balance": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"maximum-twin-sum-of-a-linked-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"maximum-vacation-days": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"maximum-value-of-k-coins-from-piles": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"maximum-width-of-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"maximum-width-ramp": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"maximum-xor-for-each-query": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"median-of-two-sorted-arrays": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"meeting-rooms-iii": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Intervals"
+},
+"meeting-schedule": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Intervals"
+},
+"meeting-schedule-ii": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Intervals"
+},
+"meeting-scheduler": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"memoize": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"merge-in-between-linked-lists": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"merge-intervals": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Intervals"
+},
+"merge-k-sorted-linked-lists": {
+"difficulty": "Hard",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"merge-nodes-in-between-zeros": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"merge-sorted-array": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"merge-strings-alternately": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"merge-triplets-to-form-target": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"merge-two-2d-arrays-by-summing-values": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"merge-two-binary-trees": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"merge-two-sorted-linked-lists": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"middle-of-the-linked-list": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Linked List"
+},
+"min-cost-climbing-stairs": {
+"difficulty": "Easy",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"min-cost-to-connect-points": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"minimize-deviation-in-array": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"minimize-max-distance-to-gas-station": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Binary Search"
+},
+"minimize-maximum-of-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimize-product-sum-of-two-arrays": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimize-rounding-error-to-meet-target": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimize-the-maximum-difference-of-pairs": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"minimize-xor": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"minimized-maximum-of-products-distributed-to-any-store": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"minimum-add-to-make-parentheses-valid": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"minimum-array-end": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"minimum-bit-flips-to-convert-number": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"minimum-changes-to-make-alternating-binary-string": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"minimum-cost-for-tickets": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"minimum-cost-to-connect-sticks": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"minimum-cost-to-convert-string-i": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"minimum-cost-to-cut-a-stick": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"minimum-cost-to-hire-k-workers": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"minimum-cost-to-make-at-least-one-valid-path-in-a-grid": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"minimum-cost-to-reach-city-with-discounts": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"minimum-cost-to-separate-sentence-into-rows": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"minimum-cost-walk-in-weighted-graph": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"minimum-deletions-to-make-character-frequencies-unique": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-deletions-to-make-string-balanced": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-difference-between-highest-and-lowest-of-k-scores": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Sliding Window"
+},
+"minimum-difference-between-largest-and-smallest-value-in-three-moves": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-difficulty-of-a-job-schedule": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"minimum-distance-between-bst-nodes": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"minimum-factorization": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"minimum-falling-path-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"minimum-falling-path-sum-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"minimum-fuel-cost-to-report-to-the-capital": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"minimum-health-to-beat-game": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-height-trees": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"minimum-increment-to-make-array-unique": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-index-of-a-valid-split": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"minimum-interval-including-query": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Intervals"
+},
+"minimum-knight-moves": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"minimum-length-of-string-after-deleting-similar-ends": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"minimum-length-of-string-after-operations": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-limit-of-balls-in-a-bag": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"minimum-number-of-arrows-to-burst-balloons": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"minimum-number-of-changes-to-make-binary-string-beautiful": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-number-of-days-to-disconnect-island": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"minimum-number-of-days-to-eat-n-oranges": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"minimum-number-of-flips-to-make-the-binary-string-alternating": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"minimum-number-of-increments-on-subarrays-to-form-a-target-array": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-number-of-k-consecutive-bit-flips": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-number-of-keypresses": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-number-of-lines-to-cover-points": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"minimum-number-of-moves-to-seat-everyone": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-number-of-operations-to-make-array-continuous": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Sliding Window"
+},
+"minimum-number-of-operations-to-make-array-empty": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"minimum-number-of-operations-to-move-all-balls-to-each-box": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"minimum-number-of-operations-to-sort-a-binary-tree-by-level": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"minimum-number-of-pushes-to-type-word-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-number-of-removals-to-make-mountain-array": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"minimum-number-of-swaps-to-make-the-string-balanced": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"minimum-number-of-vertices-to-reach-all-nodes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"minimum-obstacle-removal-to-reach-corner": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"minimum-one-bit-operations-to-make-integers-zero": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"minimum-operations-to-make-a-uni-value-grid": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"minimum-operations-to-make-binary-array-elements-equal-to-one-i": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-operations-to-reduce-x-to-zero": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"minimum-operations-to-remove-adjacent-ones-in-matrix": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"minimum-path-sum": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"minimum-penalty-for-a-shop": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"minimum-recolors-to-get-k-consecutive-black-blocks": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Sliding Window"
+},
+"minimum-remove-to-make-valid-parentheses": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"minimum-score-of-a-path-between-two-cities": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"minimum-size-subarray-sum": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Sliding Window"
+},
+"minimum-stack": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Stack"
+},
+"minimum-string-length-after-removing-substrings": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Stack"
+},
+"minimum-swaps-to-group-all-1s-together": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"minimum-swaps-to-group-all-1s-together-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"minimum-time-difference": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"minimum-time-for-k-virus-variants-to-spread": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"minimum-time-to-build-blocks": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"minimum-time-to-collect-all-apples-in-a-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"minimum-time-to-make-rope-colorful": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"minimum-time-to-repair-cars": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"minimum-time-to-visit-a-cell-in-a-grid": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"minimum-unique-word-abbreviation": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Backtracking"
+},
+"minimum-window-subsequence": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"minimum-window-with-characters": {
+"difficulty": "Hard",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Sliding Window"
+},
+"missing-element-in-sorted-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"missing-number": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"missing-number-in-arithmetic-progression": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Binary Search"
+},
+"missing-ranges": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Intervals"
+},
+"monotonic-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"most-beautiful-item-for-each-query": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"most-profitable-path-in-a-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"move-zeroes": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"moving-average-from-data-stream": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"multiply-strings": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"my-calendar-i": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"my-calendar-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"n-ary-tree-postorder-traversal": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"n-queens": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"n-queens-ii": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"n-th-tribonacci-number": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"naming-a-company": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"neighboring-bitwise-xor": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"nested-array-generator": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"nested-list-weight-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"nested-list-weight-sum-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"network-delay-time": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"new-21-game": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"next-closest-time": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"next-greater-element-i": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"next-palindrome-using-same-digits": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Two Pointers"
+},
+"next-permutation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"non-cyclical-number": {
+"difficulty": "Easy",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"non-decreasing-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"non-overlapping-intervals": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Intervals"
+},
+"number-of-atoms": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Stack"
+},
+"number-of-closed-islands": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"number-of-corner-rectangles": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"number-of-days-in-a-month": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"number-of-dice-rolls-with-target-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"number-of-distinct-islands": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"number-of-distinct-islands-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"number-of-distinct-substrings-in-a-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Tries"
+},
+"number-of-divisible-triplet-sums": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"number-of-enclaves": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"number-of-equal-count-substrings": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"number-of-flowers-in-full-bloom": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"number-of-good-leaf-nodes-pairs": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"number-of-good-pairs": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"number-of-good-paths": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"number-of-islands-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"number-of-laser-beams-in-a-bank": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"number-of-longest-increasing-subsequence": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"number-of-music-playlists": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"number-of-one-bits": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"number-of-pairs-of-interchangeable-rectangles": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"number-of-people-that-can-be-seen-in-a-grid": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"number-of-provinces": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"number-of-senior-citizens": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"number-of-ships-in-a-rectangle": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"number-of-single-divisor-triplets": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"number-of-spaces-cleaning-robot-cleaned": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"number-of-students-unable-to-eat-lunch": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"number-of-sub-arrays-with-odd-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"number-of-submatrices-that-sum-to-target": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"number-of-subsequences-that-satisfy-the-given-sum-condition": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"number-of-substrings-containing-all-three-characters": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"number-of-unique-flavors-after-sharing-k-candies": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"number-of-valid-subarrays": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Stack"
+},
+"number-of-visible-people-in-a-queue": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Stack"
+},
+"number-of-ways-to-arrive-at-destination": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"number-of-ways-to-build-house-of-cards": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"number-of-ways-to-build-sturdy-brick-wall": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"number-of-ways-to-divide-a-long-corridor": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"number-of-ways-to-form-a-target-string-given-a-dictionary": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"number-of-ways-to-rearrange-sticks-with-k-sticks-visible": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"number-of-ways-to-split-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"number-of-ways-to-stay-in-the-same-place-after-some-steps": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"number-of-zero-filled-subarrays": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"one-edit-distance": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"ones-and-zeroes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"online-stock-span": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Stack"
+},
+"open-the-lock": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"operations-on-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"optimal-account-balancing": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"optimal-partition-of-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"optimize-water-distribution-in-a-village": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"out-of-boundary-paths": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"output-contest-matches": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"pacific-atlantic-water-flow": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"paint-fence": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"paint-house": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"paint-house-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"painting-the-walls": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"palindrome-linked-list": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Linked List"
+},
+"palindrome-number": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"palindrome-partitioning": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"palindrome-permutation": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"palindrome-permutation-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"palindrome-removal": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"palindromic-substrings": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"parallel-courses": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"parallel-courses-iii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"parsing-a-boolean-expression": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Stack"
+},
+"partition-array-according-to-given-pivot": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"partition-array-for-maximum-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"partition-equal-subset-sum": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"partition-labels": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"partition-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"partition-to-k-equal-sum-subsets": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"pascals-triangle": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"pascals-triangle-ii": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"path-crossing": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"path-sum": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"path-sum-iv": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"path-with-maximum-gold": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"path-with-maximum-minimum-value": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"path-with-maximum-probability": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"path-with-minimum-effort": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"paths-in-maze-that-lead-to-same-room": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"perfect-squares": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"perform-string-shifts": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"permutation-string": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Sliding Window"
+},
+"permutations": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"permutations-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"plus-one": {
+"difficulty": "Easy",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"plus-one-linked-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"populating-next-right-pointers-in-each-node": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"pour-water": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"pour-water-between-buckets-to-make-water-levels-equal": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"pow-x-n": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"power-of-four": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"power-of-two": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"prime-subtraction-operation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"print-immutable-linked-list-in-reverse": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"process-tasks-using-servers": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"product-of-two-run-length-encoded-arrays": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"products-of-array-discluding-self": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"profitable-schemes": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"promise-pool": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"promise-time-limit": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"pseudo-palindromic-paths-in-a-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"push-dominoes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"put-boxes-into-the-warehouse-i": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"put-boxes-into-the-warehouse-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"put-marbles-in-bags": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Greedy"
+},
+"random-pick-with-weight": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"range-addition": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"range-sum-of-bst": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"range-sum-of-sorted-subarray-sums": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"range-sum-query-2d-immutable": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"range-sum-query-2d-mutable": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"range-sum-query-immutable": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"ransom-note": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"read-n-characters-given-read4": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"read-n-characters-given-read4-ii-call-multiple-times": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"rearrange-array-elements-by-sign": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"rearrange-string-k-distance-apart": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"reconstruct-flight-path": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"recover-a-tree-from-preorder-traversal": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Trees"
+},
+"recover-binary-search-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"redistribute-characters-to-make-all-strings-equal": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"redundant-connection": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"regions-cut-by-slashes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"regular-expression-matching": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"relative-sort-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"remove-9": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"remove-all-adjacent-duplicates-in-string-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"remove-all-ones-with-row-and-column-flips": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"remove-all-ones-with-row-and-column-flips-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"remove-colored-pieces-if-both-neighbors-are-the-same-color": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"remove-covered-intervals": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"remove-duplicates-from-an-unsorted-linked-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"remove-duplicates-from-sorted-array": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"remove-duplicates-from-sorted-array-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"remove-duplicates-from-sorted-list": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Linked List"
+},
+"remove-element": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"remove-interval": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"remove-k-digits": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"remove-linked-list-elements": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Linked List"
+},
+"remove-max-number-of-edges-to-keep-graph-fully-traversable": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"remove-node-from-end-of-linked-list": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"remove-nodes-from-linked-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"remove-sub-folders-from-the-filesystem": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Tries"
+},
+"remove-vowels-from-a-string": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"removing-stars-from-a-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"reorder-linked-list": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"reorder-routes-to-make-all-paths-lead-to-the-city-zero": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"reorganize-string": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"repeated-dna-sequences": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"replace-elements-with-greatest-element-on-right-side": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"restore-ip-addresses": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"reveal-cards-in-increasing-order": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"reverse-a-linked-list": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"reverse-bits": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"reverse-integer": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"reverse-linked-list-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"reverse-nodes-in-k-group": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Linked List"
+},
+"reverse-odd-levels-of-binary-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"reverse-string": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"reverse-substrings-between-each-pair-of-parentheses": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"reverse-words-in-a-string-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"reverse-words-in-a-string-iii": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"robot-bounded-in-circle": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"robot-collisions": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Stack"
+},
+"robot-room-cleaner": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Backtracking"
+},
+"roman-to-integer": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"rotate-array": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"rotate-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"rotate-matrix": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"rotating-the-box": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"rotting-fruit": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"russian-doll-envelopes": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"same-binary-tree": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"score-after-flipping-matrix": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"score-of-a-string": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"search-2d-matrix": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"search-for-word": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"search-for-word-ii": {
+"difficulty": "Hard",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Tries"
+},
+"search-in-a-sorted-array-of-unknown-size": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"search-in-rotated-sorted-array-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"search-insert-position": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"search-suggestions-system": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"seat-reservation-manager": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"second-minimum-time-to-reach-destination": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"sentence-screen-fitting": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"sentence-similarity": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"sentence-similarity-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"sentence-similarity-iii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"separate-black-and-white-balls": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"sequence-reconstruction": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"sequential-digits": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"serialize-and-deserialize-binary-tree": {
+"difficulty": "Hard",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"serialize-and-deserialize-n-ary-tree": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Trees"
+},
+"set-mismatch": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"set-zeroes-in-matrix": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"shift-2d-grid": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"shifting-letters-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"shortest-bridge": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"shortest-common-supersequence": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"shortest-distance-after-road-addition-queries-i": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"shortest-distance-from-all-buildings": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"shortest-distance-to-target-color": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"shortest-palindrome": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"shortest-path-in-binary-matrix": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"shortest-path-to-get-food": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"shortest-path-with-alternating-colors": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"shortest-subarray-to-be-removed-to-make-array-sorted": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"shortest-subarray-with-or-at-least-k-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"shortest-subarray-with-sum-at-least-k": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Stack"
+},
+"shortest-way-to-form-string": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"shortest-word-distance": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"shortest-word-distance-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"shortest-word-distance-iii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"shuffle-the-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"sign-of-the-product-of-an-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"similar-rgb-color": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"simplify-path": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Stack"
+},
+"single-element-in-a-sorted-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"single-number": {
+"difficulty": "Easy",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"single-number-iii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"single-row-keyboard": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"single-threaded-cpu": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"sleep": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "JavaScript"
+},
+"sliding-puzzle": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"sliding-window-maximum": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Sliding Window"
+},
+"smallest-common-region": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"smallest-greater-multiple-made-of-two-digits": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"smallest-range-covering-elements-from-k-lists": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Sliding Window"
+},
+"smallest-rectangle-enclosing-black-pixels": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Binary Search"
+},
+"smallest-string-starting-from-leaf": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"snakes-and-ladders": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"solving-questions-with-brainpower": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"sort-an-array": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"sort-array-by-increasing-frequency": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"sort-array-by-parity": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"sort-characters-by-frequency": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"sort-colors": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"sort-features-by-popularity": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"sort-linked-list-already-sorted-using-absolute-values": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"sort-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"sort-the-jumbled-numbers": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"sort-the-people": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"sort-transformed-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"sparse-matrix-multiplication": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"special-array-i": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"special-array-with-x-elements-greater-than-or-equal-x": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"spiral-matrix": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"spiral-matrix-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"spiral-matrix-iii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"spiral-matrix-iv": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"split-a-string-into-the-max-number-of-unique-substrings": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"split-array-largest-sum": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"split-array-with-equal-sum": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"split-array-with-same-average": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"split-bst": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"split-concatenated-strings": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"split-linked-list-in-parts": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"splitting-a-string-into-descending-consecutive-values": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"sqrtx": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"squares-of-a-sorted-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"squirrel-simulation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"step-by-step-directions-from-a-binary-tree-node-to-another": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"stepping-numbers": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"stickers-to-spell-word": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"stone-game": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"stone-game-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"stone-game-iii": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"string-compression": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Two Pointers"
+},
+"string-compression-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"string-encode-and-decode": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"string-matching-in-an-array": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"string-transforms-into-another-string": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"strings-differ-by-one-character": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"strobogrammatic-number": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"strobogrammatic-number-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"strobogrammatic-number-iii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Backtracking"
+},
+"student-attendance-record-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"subarray-product-less-than-k": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"subarray-sum-equals-k": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"subarray-sums-divisible-by-k": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"subarrays-with-k-different-integers": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Sliding Window"
+},
+"subsequence-of-size-k-with-the-largest-even-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"subsets": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"subsets-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"substrings-that-begin-and-end-with-the-same-letter": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"subtree-of-a-binary-tree": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"subtree-removal-game-with-fibonacci-tree": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"successful-pairs-of-spells-and-potions": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Binary Search"
+},
+"sum-of-absolute-differences-in-a-sorted-array": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"sum-of-all-subset-xor-totals": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"sum-of-digits-in-the-minimum-number": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"sum-of-prefix-scores-of-strings": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Tries"
+},
+"sum-of-special-evenly-spaced-elements-in-array": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"sum-of-square-numbers": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"sum-of-subarray-minimums": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"sum-of-two-integers": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Bit Manipulation"
+},
+"sum-root-to-leaf-numbers": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"surrounded-regions": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"swap-nodes-in-pairs": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"swapping-nodes-in-a-linked-list": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Linked List"
+},
+"swim-in-rising-water": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Advanced Graphs"
+},
+"symmetric-tree": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Trees"
+},
+"synonymous-sentences": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"take-gifts-from-the-richest-pile": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Heap / Priority Queue"
+},
+"take-k-of-each-character-from-left-and-right": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Sliding Window"
+},
+"target-sum": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"task-scheduling": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Heap / Priority Queue"
+},
+"ternary-expression-parser": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"text-justification": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"the-earliest-moment-when-everyone-become-friends": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"the-k-th-lexicographical-string-of-all-happy-strings-of-length-n": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"the-maze": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"the-maze-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"the-maze-iii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Graphs"
+},
+"the-most-similar-path-in-a-graph": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"the-number-of-beautiful-subsets": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"the-number-of-the-smallest-unoccupied-chair": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Intervals"
+},
+"three-integer-sum": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"throttle": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "JavaScript"
+},
+"time-based-key-value-store": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Binary Search"
+},
+"time-needed-to-buy-tickets": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"time-needed-to-inform-all-employees": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"time-taken-to-cross-the-door": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"top-k-elements-in-list": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"toss-strange-coins": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "2-D Dynamic Programming"
+},
+"transpose-matrix": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Math & Geometry"
+},
+"trapping-rain-water": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"trapping-rain-water-ii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Advanced Graphs"
+},
+"tree-diameter": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"triangle": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"trim-a-binary-search-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"tuple-with-same-product": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"two-city-scheduling": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Greedy"
+},
+"two-integer-sum": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"two-integer-sum-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"two-sum-bsts": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"two-sum-iii-data-structure-design": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"two-sum-less-than-k": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"ugly-number": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"ugly-number-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"uncommon-words-from-two-sentences": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"uncrossed-lines": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"unique-binary-search-trees": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"unique-binary-search-trees-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"unique-email-addresses": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"unique-length-3-palindromic-subsequences": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"unique-paths-ii": {
+"difficulty": "Medium",
+"lists": [
+"neetcode250"
+],
+"topic": "2-D Dynamic Programming"
+},
+"unique-substrings-with-equal-digit-frequency": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"unique-word-abbreviation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"unit-conversion-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"valid-binary-search-tree": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Trees"
+},
+"valid-palindrome-ii": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Two Pointers"
+},
+"valid-palindrome-iii": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "1-D Dynamic Programming"
+},
+"valid-parenthesis-string": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Greedy"
+},
+"valid-perfect-square": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Binary Search"
+},
+"valid-sudoku": {
+"difficulty": "Medium",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Arrays & Hashing"
+},
+"valid-tree": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"valid-word-abbreviation": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Two Pointers"
+},
+"valid-word-square": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"validate-binary-tree-nodes": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"validate-parentheses": {
+"difficulty": "Easy",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "Stack"
+},
+"validate-stack-sequences": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Stack"
+},
+"verify-preorder-sequence-in-binary-search-tree": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Trees"
+},
+"verifying-an-alien-dictionary": {
+"difficulty": "Easy",
+"lists": [
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"walking-robot-simulation": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"water-bottles": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"web-crawler": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Graphs"
+},
+"widest-pair-of-indices-with-equal-range-sum": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"widest-vertical-area-between-two-points-containing-no-points": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"wiggle-sort": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"word-abbreviation": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Tries"
+},
+"word-break": {
+"difficulty": "Medium",
+"lists": [
+"blind75",
+"neetcode150",
+"neetcode250"
+],
+"topic": "1-D Dynamic Programming"
+},
+"word-break-ii": {
+"difficulty": "Hard",
+"lists": [
+"neetcode250"
+],
+"topic": "Backtracking"
+},
+"word-ladder": {
+"difficulty": "Hard",
+"lists": [
+"neetcode150",
+"neetcode250"
+],
+"topic": "Graphs"
+},
+"word-pattern": {
+"difficulty": "Easy",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"word-pattern-ii": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Backtracking"
+},
+"word-squares": {
+"difficulty": "Hard",
+"lists": [],
+"topic": "Backtracking"
+},
+"word-subsets": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+},
+"xor-queries-of-a-subarray": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Bit Manipulation"
+},
+"zigzag-conversion": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Math & Geometry"
+},
+"zigzag-iterator": {
+"difficulty": "Medium",
+"lists": [],
+"topic": "Arrays & Hashing"
+}
 }
