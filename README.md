@@ -9,14 +9,14 @@ Let's grind! 💪
 <!-- PROGRESS:START -->
 ### 📊 Progress
 
-**97 problems solved** · 🟢 Easy 23 / 241 · 🟡 Medium 74 / 702 · 🔴 Hard 0 / 183
+**98 problems solved** · 🟢 Easy 24 / 241 · 🟡 Medium 74 / 702 · 🔴 Hard 0 / 183
 
 | List | Progress | Solved | |
 | :-- | :-- | --: | --: |
-| **Blind 75** | `███████████████░░░░░` | 56 / 75 | 75% |
-| **NeetCode 150** | `█████████████░░░░░░░` | 97 / 150 | 65% |
-| **NeetCode 250** | `████████░░░░░░░░░░░░` | 97 / 250 | 39% |
-| **NeetCode All** | `██░░░░░░░░░░░░░░░░░░` | 97 / 1126 | 9% |
+| **Blind 75** | `███████████████░░░░░` | 57 / 75 | 76% |
+| **NeetCode 150** | `█████████████░░░░░░░` | 98 / 150 | 65% |
+| **NeetCode 250** | `████████░░░░░░░░░░░░` | 98 / 250 | 39% |
+| **NeetCode All** | `██░░░░░░░░░░░░░░░░░░` | 98 / 1126 | 9% |
 
 <details open>
 <summary><b>By topic</b></summary>
@@ -40,7 +40,7 @@ Let's grind! 💪
 | Greedy | `░░░░░░░░░░░░░░░░░░░░` | 0 / 79 |
 | Intervals | `███░░░░░░░░░░░░░░░░░` | 4 / 24 |
 | Math & Geometry | `░░░░░░░░░░░░░░░░░░░░` | 0 / 76 |
-| Bit Manipulation | `█░░░░░░░░░░░░░░░░░░░` | 2 / 33 |
+| Bit Manipulation | `██░░░░░░░░░░░░░░░░░░` | 3 / 33 |
 
 </details>
 
