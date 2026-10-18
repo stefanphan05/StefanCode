@@ -1,0 +1,28 @@
+class Solution:
+    def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
+        N = len(gas)
+        if sum(gas) < sum(cost): return -1
+
+        start = N - 1
+        end = 0
+        tank = gas[start] - cost[start]
+        res = -1
+        while end < start:
+            if tank < 0:
+                start -= 1
+                tank += gas[start] - cost[start]
+            else:
+                tank += gas[end] - cost[end]
+                end += 1
+        return start
+"""
+Brute Force:
+    for every position in gas, consider it as a starting postion
+        for every next position, calculate whether its able to travel around
+
+2 Pointers
+    start at the end and move backwards to the beggining
+    end at the start and move forward to the end
+
+Greedy
+"""
