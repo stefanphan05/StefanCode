@@ -9,14 +9,14 @@ Let's grind! 💪
 <!-- PROGRESS:START -->
 ### 📊 Progress
 
-**124 problems solved** · 🟢 Easy 28 / 241 · 🟡 Medium 96 / 702 · 🔴 Hard 0 / 183
+**125 problems solved** · 🟢 Easy 28 / 241 · 🟡 Medium 97 / 702 · 🔴 Hard 0 / 183
 
 | List | Progress | Solved | |
 | :-- | :-- | --: | --: |
 | **Blind 75** | `██████████████████░░` | 68 / 75 | 91% |
-| **NeetCode 150** | `█████████████████░░░` | 124 / 150 | 83% |
-| **NeetCode 250** | `██████████░░░░░░░░░░` | 124 / 250 | 50% |
-| **NeetCode All** | `██░░░░░░░░░░░░░░░░░░` | 124 / 1126 | 11% |
+| **NeetCode 150** | `█████████████████░░░` | 125 / 150 | 83% |
+| **NeetCode 250** | `██████████░░░░░░░░░░` | 125 / 250 | 50% |
+| **NeetCode All** | `██░░░░░░░░░░░░░░░░░░` | 125 / 1126 | 11% |
 
 <details open>
 <summary><b>By topic</b></summary>
@@ -36,7 +36,7 @@ Let's grind! 💪
 | Graphs | `███░░░░░░░░░░░░░░░░░` | 12 / 76 |
 | Advanced Graphs | `██░░░░░░░░░░░░░░░░░░` | 3 / 36 |
 | 1-D Dynamic Programming | `████░░░░░░░░░░░░░░░░` | 12 / 61 |
-| 2-D Dynamic Programming | `█░░░░░░░░░░░░░░░░░░░` | 2 / 67 |
+| 2-D Dynamic Programming | `█░░░░░░░░░░░░░░░░░░░` | 3 / 67 |
 | Greedy | `██░░░░░░░░░░░░░░░░░░` | 8 / 79 |
 | Intervals | `████░░░░░░░░░░░░░░░░` | 5 / 24 |
 | Math & Geometry | `██░░░░░░░░░░░░░░░░░░` | 8 / 76 |
