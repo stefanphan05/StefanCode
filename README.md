@@ -9,14 +9,14 @@ Let's grind! 💪
 <!-- PROGRESS:START -->
 ### 📊 Progress
 
-**133 problems solved** · 🟢 Easy 28 / 241 · 🟡 Medium 105 / 702 · 🔴 Hard 0 / 183
+**134 problems solved** · 🟢 Easy 28 / 241 · 🟡 Medium 106 / 702 · 🔴 Hard 0 / 183
 
 | List | Progress | Solved | |
 | :-- | :-- | --: | --: |
 | **Blind 75** | `██████████████████░░` | 68 / 75 | 91% |
 | **NeetCode 150** | `█████████████████░░░` | 129 / 150 | 86% |
-| **NeetCode 250** | `██████████░░░░░░░░░░` | 131 / 250 | 52% |
-| **NeetCode All** | `██░░░░░░░░░░░░░░░░░░` | 133 / 1126 | 12% |
+| **NeetCode 250** | `███████████░░░░░░░░░` | 132 / 250 | 53% |
+| **NeetCode All** | `██░░░░░░░░░░░░░░░░░░` | 134 / 1126 | 12% |
 
 <details open>
 <summary><b>By topic</b></summary>
@@ -31,7 +31,7 @@ Let's grind! 💪
 | Linked List | `████░░░░░░░░░░░░░░░░` | 9 / 41 |
 | Trees | `██░░░░░░░░░░░░░░░░░░` | 13 / 112 |
 | Tries | `██░░░░░░░░░░░░░░░░░░` | 2 / 16 |
-| Heap / Priority Queue | `███░░░░░░░░░░░░░░░░░` | 6 / 36 |
+| Heap / Priority Queue | `████░░░░░░░░░░░░░░░░` | 7 / 36 |
 | Backtracking | `████░░░░░░░░░░░░░░░░` | 9 / 45 |
 | Graphs | `███░░░░░░░░░░░░░░░░░` | 12 / 76 |
 | Advanced Graphs | `██░░░░░░░░░░░░░░░░░░` | 3 / 36 |
