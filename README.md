@@ -9,14 +9,14 @@ Let's grind! 💪
 <!-- PROGRESS:START -->
 ### 📊 Progress
 
-**155 problems solved** · 🟢 Easy 39 / 241 · 🟡 Medium 116 / 702 · 🔴 Hard 0 / 183
+**156 problems solved** · 🟢 Easy 40 / 241 · 🟡 Medium 116 / 702 · 🔴 Hard 0 / 183
 
 | List | Progress | Solved | |
 | :-- | :-- | --: | --: |
 | **Blind 75** | `██████████████████░░` | 68 / 75 | 91% |
 | **NeetCode 150** | `█████████████████░░░` | 129 / 150 | 86% |
-| **NeetCode 250** | `████████████░░░░░░░░` | 151 / 250 | 60% |
-| **NeetCode All** | `███░░░░░░░░░░░░░░░░░` | 155 / 1126 | 14% |
+| **NeetCode 250** | `████████████░░░░░░░░` | 152 / 250 | 61% |
+| **NeetCode All** | `███░░░░░░░░░░░░░░░░░` | 156 / 1126 | 14% |
 
 <details open>
 <summary><b>By topic</b></summary>
@@ -25,7 +25,7 @@ Let's grind! 💪
 | :-- | :-- | --: |
 | Arrays & Hashing | `██░░░░░░░░░░░░░░░░░░` | 22 / 208 |
 | Two Pointers | `██░░░░░░░░░░░░░░░░░░` | 6 / 48 |
-| Sliding Window | `██░░░░░░░░░░░░░░░░░░` | 4 / 47 |
+| Sliding Window | `██░░░░░░░░░░░░░░░░░░` | 5 / 47 |
 | Stack | `██████░░░░░░░░░░░░░░` | 13 / 42 |
 | Binary Search | `██░░░░░░░░░░░░░░░░░░` | 6 / 49 |
 | Linked List | `████░░░░░░░░░░░░░░░░` | 9 / 41 |
